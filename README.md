@@ -1,5 +1,6 @@
 # Programmer_Algorithm_Interview
- 《python程序员面试算法宝典》代码:
+ 《python程序员面试算法宝典》  
+ 原书的代码是Python2 ，修改为Python3 以及有的地方略微改动  
  第一章 链表  
  1.1 [链表逆序](https://github.com/karlhl/Programmer_Algorithm_Interview/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E9%93%BE%E8%A1%A8/1.1%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E9%93%BE%E8%A1%A8%E7%9A%84%E9%80%86%E5%BA%8F.py)  
  
