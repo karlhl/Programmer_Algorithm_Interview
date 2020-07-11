@@ -7,6 +7,9 @@ class LNode:
         self.data = x
         self.next = None
 
+    def __repr__(self):
+        return "value:{}".format(self.data)
+
 class Stuck:
     def __init__(self):
         self.data = None
@@ -43,6 +46,12 @@ class Stuck:
         else:
             print('栈为空')
             return None
+
+    def __iter__(self):
+        for node in self.iter_node():
+            yield node.value
+
+
 
 if __name__ == '__main__':
     s = Stuck()

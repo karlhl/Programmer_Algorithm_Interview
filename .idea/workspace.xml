@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67c60303-54df-4bbb-8cce-d93628ca057c" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eV6n5MQp5D0c8VMity1pmYj16D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.2.4 栈-根据入栈序列判断可能的出栈序列">
+    <configuration name="2.1.1 栈-数组实现" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programmer_Algorithm_Interview" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二章 栈、队列与哈希" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二章 栈、队列与哈希/2.1.1 栈-数组实现.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2.1.2 栈-链表实现" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programmer_Algorithm_Interview" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二章 栈、队列与哈希" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二章 栈、队列与哈希/2.1.2 栈-链表实现.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2.4 栈-根据入栈序列判断可能的出栈序列" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programmer_Algorithm_Interview" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二章 栈、队列与哈希" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二章 栈、队列与哈希/2.4 栈-根据入栈序列判断可能的出栈序列.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.2.4 栈-根据入栈序列判断可能的出栈序列" />
+        <item itemvalue="Python.2.1.2 栈-链表实现" />
+        <item itemvalue="Python.2.1.1 栈-数组实现" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67c60303-54df-4bbb-8cce-d93628ca057c" name="默认的" comment="" />
+      <created>1594394576100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594394576100</updated>
+      <workItem from="1594394577647" duration="420000" />
+      <workItem from="1594439335145" duration="5004000" />
+      <workItem from="1594445410039" duration="189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1923" height="358" key="GridCell.Tab.0.bottom" timestamp="1594444496424">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state width="1923" height="358" key="GridCell.Tab.0.bottom/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
+    <state width="1923" height="358" key="GridCell.Tab.0.center" timestamp="1594444496424">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state width="1923" height="358" key="GridCell.Tab.0.center/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
+    <state width="1923" height="358" key="GridCell.Tab.0.left" timestamp="1594444496424">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state width="1923" height="358" key="GridCell.Tab.0.left/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
+    <state width="1923" height="358" key="GridCell.Tab.0.right" timestamp="1594444496424">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state width="1923" height="358" key="GridCell.Tab.0.right/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
+    <state width="1923" height="358" key="GridCell.Tab.1.bottom" timestamp="1594444496424">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state width="1923" height="358" key="GridCell.Tab.1.bottom/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
+    <state width="1923" height="358" key="GridCell.Tab.1.center" timestamp="1594444496424">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state width="1923" height="358" key="GridCell.Tab.1.center/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
+    <state width="1923" height="358" key="GridCell.Tab.1.left" timestamp="1594444496424">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state width="1923" height="358" key="GridCell.Tab.1.left/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
+    <state width="1923" height="358" key="GridCell.Tab.1.right" timestamp="1594444496424">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state width="1923" height="358" key="GridCell.Tab.1.right/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$2_4__.coverage" NAME="2.4 栈-根据入栈序列判断可能的出栈序列 Coverage Results" MODIFIED="1594444160730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 栈、队列与哈希" />
+    <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$2_1_2__.coverage" NAME="2.1.2 栈-链表实现 Coverage Results" MODIFIED="1594439968915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 栈、队列与哈希" />
+    <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$2_1_1__.coverage" NAME="2.1.1 栈-数组实现 Coverage Results" MODIFIED="1594394942699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 栈、队列与哈希" />
+  </component>
+</project>
