@@ -17,6 +17,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/第三章 二叉树/3.3.1 从顶端开始逐层打印二叉树节点数据.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectId" id="1eV6n5MQp5D0c8VMity1pmYj16D" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,9 +30,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
-  <component name="RunManager" selected="Python.2.6 栈-用两个栈模拟队列操作">
-    <configuration name="2.1.1 栈-数组实现" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\Github\Programmer_Algorithm_Interview" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.3.5 判断两棵二叉树是否相等">
+    <configuration name="3.2 如何把有序整数数组放到二叉树中" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmer_Algorithm_Interview" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -37,12 +46,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二章 栈、队列与哈希" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第三章 二叉树" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二章 栈、队列与哈希/2.1.1 栈-数组实现.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第三章 二叉树/3.2 如何把有序整数数组放到二叉树中.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -51,7 +60,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.2.2 队列-链表实现" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3.3.1 从顶端开始逐层打印二叉树节点数据 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmer_Algorithm_Interview" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,12 +68,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二章 栈、队列与哈希" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第三章 二叉树" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二章 栈、队列与哈希/2.2.2 队列-链表实现.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第三章 二叉树/3.3.1 从顶端开始逐层打印二叉树节点数据.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.4 栈-根据入栈序列判断可能的出栈序列" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3.3.1 从顶端开始逐层打印二叉树节点数据" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmer_Algorithm_Interview" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,12 +90,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二章 栈、队列与哈希" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第三章 二叉树" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二章 栈、队列与哈希/2.4 栈-根据入栈序列判断可能的出栈序列.py" />
+      <option name="SCRIPT_NAME" value="D:\work\Github\Programmer_Algorithm_Interview\第三章 二叉树\3.3.1 从顶端开始逐层打印二叉树节点数据.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.5 栈-用O（1）的时间复杂度求栈中最小元素" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3.4 求一棵二叉树的最大子树和" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmer_Algorithm_Interview" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,12 +112,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二章 栈、队列与哈希" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第三章 二叉树" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二章 栈、队列与哈希/2.5 栈-用O（1）的时间复杂度求栈中最小元素.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第三章 二叉树/3.4 求一棵二叉树的最大子树和.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.6 栈-用两个栈模拟队列操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3.5 判断两棵二叉树是否相等" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmer_Algorithm_Interview" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,12 +134,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二章 栈、队列与哈希" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第三章 二叉树" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二章 栈、队列与哈希/2.6 栈-用两个栈模拟队列操作.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第三章 二叉树/3.5 判断两棵二叉树是否相等.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2.6 栈-用两个栈模拟队列操作" />
-        <item itemvalue="Python.2.5 栈-用O（1）的时间复杂度求栈中最小元素" />
-        <item itemvalue="Python.2.1.1 栈-数组实现" />
-        <item itemvalue="Python.2.2.2 队列-链表实现" />
-        <item itemvalue="Python.2.4 栈-根据入栈序列判断可能的出栈序列" />
+        <item itemvalue="Python.3.5 判断两棵二叉树是否相等" />
+        <item itemvalue="Python.3.3.1 从顶端开始逐层打印二叉树节点数据 (1)" />
+        <item itemvalue="Python.3.4 求一棵二叉树的最大子树和" />
+        <item itemvalue="Python.3.2 如何把有序整数数组放到二叉树中" />
+        <item itemvalue="Python.3.3.1 从顶端开始逐层打印二叉树节点数据" />
       </list>
     </recent_temporary>
   </component>
@@ -163,6 +172,15 @@
       <workItem from="1594439335145" duration="5004000" />
       <workItem from="1594445410039" duration="189000" />
       <workItem from="1594464911646" duration="6013000" />
+      <workItem from="1594537784083" duration="2736000" />
+      <workItem from="1594546791417" duration="122000" />
+      <workItem from="1594546954655" duration="6000" />
+      <workItem from="1594618968877" duration="3958000" />
+      <workItem from="1594704836940" duration="6414000" />
+      <workItem from="1594729174222" duration="342000" />
+      <workItem from="1594740323136" duration="887000" />
+      <workItem from="1594775380601" duration="981000" />
+      <workItem from="1594786783565" duration="11326000" />
     </task>
     <servers />
   </component>
@@ -170,53 +188,78 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2023" height="308" key="GridCell.Tab.0.bottom" timestamp="1594483863746">
+    <state x="839" y="277" key="#com.intellij.ide.util.MemberChooser" timestamp="1594540079592">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state x="839" y="277" key="#com.intellij.ide.util.MemberChooser/0.0.2065.1122@0.0.2065.1122" timestamp="1594540079592" />
+    <state x="455" y="150" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594546861921">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="455" y="150" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1549.831@0.0.1549.831" timestamp="1594546861921" />
+    <state width="2023" height="380" key="GridCell.Tab.0.bottom" timestamp="1594800422639">
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state width="1923" height="358" key="GridCell.Tab.0.bottom/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
-    <state width="2023" height="308" key="GridCell.Tab.0.bottom/0.0.2065.1122@0.0.2065.1122" timestamp="1594483863746" />
-    <state width="2023" height="308" key="GridCell.Tab.0.center" timestamp="1594483863746">
+    <state width="2023" height="380" key="GridCell.Tab.0.bottom/0.0.2065.1122@0.0.2065.1122" timestamp="1594800422639" />
+    <state width="2023" height="380" key="GridCell.Tab.0.center" timestamp="1594800422639">
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state width="1923" height="358" key="GridCell.Tab.0.center/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
-    <state width="2023" height="308" key="GridCell.Tab.0.center/0.0.2065.1122@0.0.2065.1122" timestamp="1594483863746" />
-    <state width="2023" height="308" key="GridCell.Tab.0.left" timestamp="1594483863746">
+    <state width="2023" height="380" key="GridCell.Tab.0.center/0.0.2065.1122@0.0.2065.1122" timestamp="1594800422639" />
+    <state width="2023" height="380" key="GridCell.Tab.0.left" timestamp="1594800422639">
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state width="1923" height="358" key="GridCell.Tab.0.left/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
-    <state width="2023" height="308" key="GridCell.Tab.0.left/0.0.2065.1122@0.0.2065.1122" timestamp="1594483863746" />
-    <state width="2023" height="308" key="GridCell.Tab.0.right" timestamp="1594483863746">
+    <state width="2023" height="380" key="GridCell.Tab.0.left/0.0.2065.1122@0.0.2065.1122" timestamp="1594800422639" />
+    <state width="2023" height="380" key="GridCell.Tab.0.right" timestamp="1594800422639">
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state width="1923" height="358" key="GridCell.Tab.0.right/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
-    <state width="2023" height="308" key="GridCell.Tab.0.right/0.0.2065.1122@0.0.2065.1122" timestamp="1594483863746" />
-    <state width="1923" height="358" key="GridCell.Tab.1.bottom" timestamp="1594444496424">
-      <screen x="0" y="0" width="1966" height="1066" />
-    </state>
-    <state width="1923" height="358" key="GridCell.Tab.1.bottom/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
-    <state width="1923" height="358" key="GridCell.Tab.1.center" timestamp="1594444496424">
-      <screen x="0" y="0" width="1966" height="1066" />
-    </state>
-    <state width="1923" height="358" key="GridCell.Tab.1.center/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
-    <state width="1923" height="358" key="GridCell.Tab.1.left" timestamp="1594444496424">
-      <screen x="0" y="0" width="1966" height="1066" />
-    </state>
-    <state width="1923" height="358" key="GridCell.Tab.1.left/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
-    <state width="1923" height="358" key="GridCell.Tab.1.right" timestamp="1594444496424">
-      <screen x="0" y="0" width="1966" height="1066" />
-    </state>
-    <state width="1923" height="358" key="GridCell.Tab.1.right/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
-    <state x="696" y="246" width="672" height="678" key="search.everywhere.popup" timestamp="1594479987827">
+    <state width="2023" height="380" key="GridCell.Tab.0.right/0.0.2065.1122@0.0.2065.1122" timestamp="1594800422639" />
+    <state width="2023" height="380" key="GridCell.Tab.1.bottom" timestamp="1594800422640">
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
-    <state x="696" y="246" width="672" height="678" key="search.everywhere.popup/0.0.2065.1122@0.0.2065.1122" timestamp="1594479987827" />
+    <state width="1923" height="358" key="GridCell.Tab.1.bottom/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
+    <state width="2023" height="380" key="GridCell.Tab.1.bottom/0.0.2065.1122@0.0.2065.1122" timestamp="1594800422640" />
+    <state width="2023" height="380" key="GridCell.Tab.1.center" timestamp="1594800422640">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state width="1923" height="358" key="GridCell.Tab.1.center/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
+    <state width="2023" height="380" key="GridCell.Tab.1.center/0.0.2065.1122@0.0.2065.1122" timestamp="1594800422640" />
+    <state width="2023" height="380" key="GridCell.Tab.1.left" timestamp="1594800422639">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state width="1923" height="358" key="GridCell.Tab.1.left/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
+    <state width="2023" height="380" key="GridCell.Tab.1.left/0.0.2065.1122@0.0.2065.1122" timestamp="1594800422639" />
+    <state width="2023" height="380" key="GridCell.Tab.1.right" timestamp="1594800422640">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state width="1923" height="358" key="GridCell.Tab.1.right/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
+    <state width="2023" height="380" key="GridCell.Tab.1.right/0.0.2065.1122@0.0.2065.1122" timestamp="1594800422640" />
+    <state x="1084" y="250" key="SettingsEditor" timestamp="1594539953998">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state x="1084" y="250" key="SettingsEditor/0.0.2065.1122@0.0.2065.1122" timestamp="1594539953998" />
+    <state x="696" y="246" width="672" height="678" key="search.everywhere.popup" timestamp="1594791154314">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state x="696" y="246" width="672" height="678" key="search.everywhere.popup/0.0.2065.1122@0.0.2065.1122" timestamp="1594791154314" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$2_6__.coverage" NAME="2.6 栈-用两个栈模拟队列操作 Coverage Results" MODIFIED="1594483852749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 栈、队列与哈希" />
+    <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$3_4_.coverage" NAME="3.4 求一棵二叉树的最大子树和 Coverage Results" MODIFIED="1594796912697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章 二叉树" />
+    <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$2_7__.coverage" NAME="2.7 队列-设计一个排队系统 Coverage Results" MODIFIED="1594620331607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 栈、队列与哈希" />
+    <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$2_8___LRU.coverage" NAME="2.8  队列-实现LRU缓存方案 Coverage Results" MODIFIED="1594622087872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 栈、队列与哈希" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$2_4__.coverage" NAME="2.4 栈-根据入栈序列判断可能的出栈序列 Coverage Results" MODIFIED="1594444160730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 栈、队列与哈希" />
+    <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$3_2_.coverage" NAME="3.2 如何把有序整数数组放到二叉树中 Coverage Results" MODIFIED="1594790099770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章 二叉树" />
+    <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$3_3_.coverage" NAME="3.3 从顶端开始逐层打印二叉树节点数据 Coverage Results" MODIFIED="1594788958157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章 二叉树" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$2_2_2__.coverage" NAME="2.2.2 队列-链表实现 Coverage Results" MODIFIED="1594478196442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 栈、队列与哈希" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$2_5__O1.coverage" NAME="2.5 栈-用O（1）的时间复杂度求栈中最小元素 Coverage Results" MODIFIED="1594482097888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 栈、队列与哈希" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$2_1_2__.coverage" NAME="2.1.2 栈-链表实现 Coverage Results" MODIFIED="1594439968915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 栈、队列与哈希" />
+    <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$2_9_.coverage" NAME="2.9 从给定的车票中找出旅程 Coverage Results" MODIFIED="1594707920216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 栈、队列与哈希" />
+    <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$2_6__.coverage" NAME="2.6 栈-用两个栈模拟队列操作 Coverage Results" MODIFIED="1594483852749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 栈、队列与哈希" />
+    <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$3_3_1___1_.coverage" NAME="3.3.1 从顶端开始逐层打印二叉树节点数据 (1) Coverage Results" MODIFIED="1594797185029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章 二叉树" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$2_1_1__.coverage" NAME="2.1.1 栈-数组实现 Coverage Results" MODIFIED="1594479733955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 栈、队列与哈希" />
+    <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$2_10_a_b___c_d.coverage" NAME="2.10 如何从数组中找出满足a+b = c+d的两个数对 Coverage Results" MODIFIED="1594711949739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 栈、队列与哈希" />
+    <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$3_5_.coverage" NAME="3.5 判断两棵二叉树是否相等 Coverage Results" MODIFIED="1594797861316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章 二叉树" />
   </component>
 </project>
