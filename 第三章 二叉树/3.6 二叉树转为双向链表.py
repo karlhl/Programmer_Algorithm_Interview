@@ -1,5 +1,7 @@
 """
 思路与中序遍历相同
+时间：O(N)
+空间：O(1)
 """
 class BITNode:
     def __init__(self):
@@ -14,7 +16,7 @@ class Test:
 
     def arraytotree(self,arr,start,end):
         root = None
-        while end >= start:
+        if end >= start:
             root = BITNode()
             mid = (start+end+1)//2
             root.data = arr[mid]
@@ -31,4 +33,58 @@ class Test:
     def inOrderBSTree(self,root):
         if root == None:
             return
-        
+        # 转换root的左子树
+        self.inOrderBSTree(root.lchild)
+        root.lchild = self.pEnd # 当前左孩子指向双向链表的最后一个节点
+        if None == self.pEnd: # 双向链表为空，当前遍历的root是头结点
+            self.pHead = root
+        else:
+            self.pEnd.rchild = root
+        self.pEnd = root
+
+        # 转化右子树
+        self.inOrderBSTree(root.rchild)
+
+if __name__ == "__main__":
+    arr = [1,2,3,4,5,6,7]
+    test = Test()
+    root = test.arraytotree(arr,0,len(arr)-1)
+    test.inOrderBSTree(root)
+    print("转换后的正向遍历")
+    cur = test.pHead
+    while cur != None:
+        print(cur.data,end=" ")
+        cur = cur.rchild
+    print("\n")
+    print("转换后的逆向遍历")
+    cur = test.pEnd
+    while cur != None:
+        print(cur.data,end=" ")
+        cur = cur.lchild
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
