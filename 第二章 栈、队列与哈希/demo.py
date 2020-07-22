@@ -1,3 +1,2 @@
-class girlFirend:
-    def __init__(self,age):
-        self.age = age
+for i in range(0,10,2):
+    print(i)

@@ -20,8 +20,10 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/第三章 二叉树/3.3.1 从顶端开始逐层打印二叉树节点数据.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/第四章 数组/4.2.1 查找数组中元素最大值和最小值.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/第四章 数组/4.2.3 查找数组中元素的最大值和最小值(有问题).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/第三章 二叉树/3.7 判断一个数组是否是二元查找树后续遍历的序列.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/第三章 二叉树/3.8.1 找出排序二叉树上任意两个节点最近的共同父亲节点.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/第四章 数组/4.2.2 查找数组中元素最大值和最小值.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1eV6n5MQp5D0c8VMity1pmYj16D" />
   <component name="ProjectViewState">
@@ -41,96 +43,8 @@
       <recent name="D:\work\Github\Programmer_Algorithm_Interview" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4.2.1 查找数组中元素最大值和最小值">
-    <configuration name="3.10 二叉树中找出与输入整数相等的所有路径" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programmer_Algorithm_Interview" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第三章 二叉树" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第三章 二叉树/3.10 二叉树中找出与输入整数相等的所有路径.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3.11 对二叉树进行镜像翻转" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programmer_Algorithm_Interview" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第三章 二叉树" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第三章 二叉树/3.11 对二叉树进行镜像翻转.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3.12 二叉排序树中找出第一个大于中间值的节点" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programmer_Algorithm_Interview" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第三章 二叉树" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第三章 二叉树/3.12 二叉排序树中找出第一个大于中间值的节点.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3.9 复制二叉树" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programmer_Algorithm_Interview" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第三章 二叉树" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第三章 二叉树/3.9 复制二叉树.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4.2.1 查找数组中元素最大值和最小值" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.demo">
+    <configuration name="4.3.1 找出旋转数组的最小元素 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmer_Algorithm_Interview" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +57,95 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第四章 数组/4.2.1 查找数组中元素最大值和最小值.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第四章 数组/4.3.1 找出旋转数组的最小元素.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4.3.2 实现旋转数组的功能" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programmer_Algorithm_Interview" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第四章 数组" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第四章 数组/4.3.2 实现旋转数组的功能.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4.4.1 找出数组中丢失的数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programmer_Algorithm_Interview" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第四章 数组" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第四章 数组/4.4.1 找出数组中丢失的数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4.4.2 找出数组中丢失的数-异或法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programmer_Algorithm_Interview" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第四章 数组" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第四章 数组/4.4.2 找出数组中丢失的数-异或法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programmer_Algorithm_Interview" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第四章 数组" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第四章 数组/demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4.2.1 查找数组中元素最大值和最小值" />
-        <item itemvalue="Python.3.12 二叉排序树中找出第一个大于中间值的节点" />
-        <item itemvalue="Python.3.11 对二叉树进行镜像翻转" />
-        <item itemvalue="Python.3.10 二叉树中找出与输入整数相等的所有路径" />
-        <item itemvalue="Python.3.9 复制二叉树" />
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.4.3.1 找出旋转数组的最小元素 (1)" />
+        <item itemvalue="Python.4.4.2 找出数组中丢失的数-异或法" />
+        <item itemvalue="Python.4.4.1 找出数组中丢失的数" />
+        <item itemvalue="Python.4.3.2 实现旋转数组的功能" />
       </list>
     </recent_temporary>
   </component>
@@ -193,6 +195,10 @@
       <workItem from="1594991300092" duration="138000" />
       <workItem from="1595044738507" duration="20000" />
       <workItem from="1595073597691" duration="2825000" />
+      <workItem from="1595224879153" duration="3913000" />
+      <workItem from="1595305159741" duration="769000" />
+      <workItem from="1595308529091" duration="6129000" />
+      <workItem from="1595390949914" duration="7013000" />
     </task>
     <servers />
   </component>
@@ -212,59 +218,60 @@
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state x="660" y="239" key="#检查/0.0.2065.1122@0.0.2065.1122" timestamp="1594875541283" />
-    <state width="2023" height="380" key="GridCell.Tab.0.bottom" timestamp="1595076480110">
+    <state width="990" height="376" key="GridCell.Tab.0.bottom" timestamp="1595403177150">
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state width="1923" height="358" key="GridCell.Tab.0.bottom/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
-    <state width="2023" height="380" key="GridCell.Tab.0.bottom/0.0.2065.1122@0.0.2065.1122" timestamp="1595076480110" />
-    <state width="2023" height="380" key="GridCell.Tab.0.center" timestamp="1595076480110">
+    <state width="990" height="376" key="GridCell.Tab.0.bottom/0.0.2065.1122@0.0.2065.1122" timestamp="1595403177150" />
+    <state width="990" height="376" key="GridCell.Tab.0.center" timestamp="1595403177150">
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state width="1923" height="358" key="GridCell.Tab.0.center/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
-    <state width="2023" height="380" key="GridCell.Tab.0.center/0.0.2065.1122@0.0.2065.1122" timestamp="1595076480110" />
-    <state width="2023" height="380" key="GridCell.Tab.0.left" timestamp="1595076480110">
+    <state width="990" height="376" key="GridCell.Tab.0.center/0.0.2065.1122@0.0.2065.1122" timestamp="1595403177150" />
+    <state width="990" height="376" key="GridCell.Tab.0.left" timestamp="1595403177150">
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state width="1923" height="358" key="GridCell.Tab.0.left/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
-    <state width="2023" height="380" key="GridCell.Tab.0.left/0.0.2065.1122@0.0.2065.1122" timestamp="1595076480110" />
-    <state width="2023" height="380" key="GridCell.Tab.0.right" timestamp="1595076480110">
+    <state width="990" height="376" key="GridCell.Tab.0.left/0.0.2065.1122@0.0.2065.1122" timestamp="1595403177150" />
+    <state width="990" height="376" key="GridCell.Tab.0.right" timestamp="1595403177150">
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state width="1923" height="358" key="GridCell.Tab.0.right/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
-    <state width="2023" height="380" key="GridCell.Tab.0.right/0.0.2065.1122@0.0.2065.1122" timestamp="1595076480110" />
-    <state width="2023" height="380" key="GridCell.Tab.1.bottom" timestamp="1595076480110">
+    <state width="990" height="376" key="GridCell.Tab.0.right/0.0.2065.1122@0.0.2065.1122" timestamp="1595403177150" />
+    <state width="990" height="376" key="GridCell.Tab.1.bottom" timestamp="1595403177151">
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state width="1923" height="358" key="GridCell.Tab.1.bottom/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
-    <state width="2023" height="380" key="GridCell.Tab.1.bottom/0.0.2065.1122@0.0.2065.1122" timestamp="1595076480110" />
-    <state width="2023" height="380" key="GridCell.Tab.1.center" timestamp="1595076480110">
+    <state width="990" height="376" key="GridCell.Tab.1.bottom/0.0.2065.1122@0.0.2065.1122" timestamp="1595403177151" />
+    <state width="990" height="376" key="GridCell.Tab.1.center" timestamp="1595403177151">
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state width="1923" height="358" key="GridCell.Tab.1.center/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
-    <state width="2023" height="380" key="GridCell.Tab.1.center/0.0.2065.1122@0.0.2065.1122" timestamp="1595076480110" />
-    <state width="2023" height="380" key="GridCell.Tab.1.left" timestamp="1595076480110">
+    <state width="990" height="376" key="GridCell.Tab.1.center/0.0.2065.1122@0.0.2065.1122" timestamp="1595403177151" />
+    <state width="990" height="376" key="GridCell.Tab.1.left" timestamp="1595403177151">
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state width="1923" height="358" key="GridCell.Tab.1.left/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
-    <state width="2023" height="380" key="GridCell.Tab.1.left/0.0.2065.1122@0.0.2065.1122" timestamp="1595076480110" />
-    <state width="2023" height="380" key="GridCell.Tab.1.right" timestamp="1595076480110">
+    <state width="990" height="376" key="GridCell.Tab.1.left/0.0.2065.1122@0.0.2065.1122" timestamp="1595403177150" />
+    <state width="990" height="376" key="GridCell.Tab.1.right" timestamp="1595403177151">
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state width="1923" height="358" key="GridCell.Tab.1.right/0.0.1966.1066@0.0.1966.1066" timestamp="1594444496424" />
-    <state width="2023" height="380" key="GridCell.Tab.1.right/0.0.2065.1122@0.0.2065.1122" timestamp="1595076480110" />
+    <state width="990" height="376" key="GridCell.Tab.1.right/0.0.2065.1122@0.0.2065.1122" timestamp="1595403177151" />
     <state x="1084" y="250" key="SettingsEditor" timestamp="1594539953998">
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state x="1084" y="250" key="SettingsEditor/0.0.2065.1122@0.0.2065.1122" timestamp="1594539953998" />
-    <state x="696" y="246" width="672" height="678" key="search.everywhere.popup" timestamp="1594791154314">
+    <state x="696" y="246" width="672" height="678" key="search.everywhere.popup" timestamp="1595225916883">
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
-    <state x="696" y="246" width="672" height="678" key="search.everywhere.popup/0.0.2065.1122@0.0.2065.1122" timestamp="1594791154314" />
+    <state x="696" y="246" width="672" height="678" key="search.everywhere.popup/0.0.2065.1122@0.0.2065.1122" timestamp="1595225916883" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$3_4_.coverage" NAME="3.4 求一棵二叉树的最大子树和 Coverage Results" MODIFIED="1594796912697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章 二叉树" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$3_11_.coverage" NAME="3.11 对二叉树进行镜像翻转 Coverage Results" MODIFIED="1594965146811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章 二叉树" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$2_8___LRU.coverage" NAME="2.8  队列-实现LRU缓存方案 Coverage Results" MODIFIED="1594622087872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 栈、队列与哈希" />
+    <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$4_2_2_.coverage" NAME="4.2.2 查找数组中元素最大值和最小值 Coverage Results" MODIFIED="1595226948936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第四章 数组" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$3_2_.coverage" NAME="3.2 如何把有序整数数组放到二叉树中 Coverage Results" MODIFIED="1594790099770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章 二叉树" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$4_1_2.coverage" NAME="4.1.2 Coverage Results" MODIFIED="1594883933764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第四章 数组" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$2_2_2__.coverage" NAME="2.2.2 队列-链表实现 Coverage Results" MODIFIED="1594478196442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 栈、队列与哈希" />
@@ -274,20 +281,27 @@
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$2_9_.coverage" NAME="2.9 从给定的车票中找出旅程 Coverage Results" MODIFIED="1594707920216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 栈、队列与哈希" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$3_9_.coverage" NAME="3.9 复制二叉树 Coverage Results" MODIFIED="1594916784415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章 二叉树" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$3_6_.coverage" NAME="3.6 二叉树转为双向链表 Coverage Results" MODIFIED="1594860743585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章 二叉树" />
+    <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$4_4_1_.coverage" NAME="4.4.1 找出数组中丢失的数 Coverage Results" MODIFIED="1595313143929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第四章 数组" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$3_3_1___1_.coverage" NAME="3.3.1 从顶端开始逐层打印二叉树节点数据 (1) Coverage Results" MODIFIED="1594797185029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章 二叉树" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$2_1_1__.coverage" NAME="2.1.1 栈-数组实现 Coverage Results" MODIFIED="1594479733955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 栈、队列与哈希" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$2_10_a_b___c_d.coverage" NAME="2.10 如何从数组中找出满足a+b = c+d的两个数对 Coverage Results" MODIFIED="1594711949739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 栈、队列与哈希" />
+    <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$4_2_3_.coverage" NAME="4.2.3 查找数组中元素的最大值和最小值 Coverage Results" MODIFIED="1595228352264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第四章 数组" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$4_1_3.coverage" NAME="4.1.3 Coverage Results" MODIFIED="1594885078735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第四章 数组" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$2_7__.coverage" NAME="2.7 队列-设计一个排队系统 Coverage Results" MODIFIED="1594620331607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 栈、队列与哈希" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$2_4__.coverage" NAME="2.4 栈-根据入栈序列判断可能的出栈序列 Coverage Results" MODIFIED="1594444160730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 栈、队列与哈希" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$3_10_.coverage" NAME="3.10 二叉树中找出与输入整数相等的所有路径 Coverage Results" MODIFIED="1594918302339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章 二叉树" />
+    <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$4_3_.coverage" NAME="4.3 找出旋转数组的最小元素 Coverage Results" MODIFIED="1595310941657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第四章 数组" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$4_2_1_.coverage" NAME="4.2.1 查找数组中元素最大值和最小值 Coverage Results" MODIFIED="1595074546639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第四章 数组" />
+    <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$4_2_3_____1_.coverage" NAME="4.2.3 查找数组中元素的最大值和最小值(有问题) (1) Coverage Results" MODIFIED="1595306440273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第四章 数组" />
+    <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$4_3_1___1_.coverage" NAME="4.3.1 找出旋转数组的最小元素 (1) Coverage Results" MODIFIED="1595394246516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第四章 数组" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$3_7_.coverage" NAME="3.7 判断一个数组是否是二元查找树后续遍历的序列 Coverage Results" MODIFIED="1594875220843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章 二叉树" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$3_12_.coverage" NAME="3.12 二叉排序树中找出第一个大于中间值的节点 Coverage Results" MODIFIED="1594971089479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章 二叉树" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$3_3_.coverage" NAME="3.3 从顶端开始逐层打印二叉树节点数据 Coverage Results" MODIFIED="1594788958157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章 二叉树" />
-    <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$demo.coverage" NAME="demo Coverage Results" MODIFIED="1594884600335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第四章 数组" />
+    <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$demo.coverage" NAME="demo Coverage Results" MODIFIED="1595396459079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第四章 数组" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$4_1_1_.coverage" NAME="4.1.1 找出数组中唯一的重复元素 Coverage Results" MODIFIED="1594883461851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第四章 数组" />
+    <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$4_4_2__.coverage" NAME="4.4.2 找出数组中丢失的数-异或法 Coverage Results" MODIFIED="1595314448024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第四章 数组" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$2_6__.coverage" NAME="2.6 栈-用两个栈模拟队列操作 Coverage Results" MODIFIED="1594483852749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 栈、队列与哈希" />
+    <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$4_3_2_.coverage" NAME="4.3.2 实现旋转数组的功能 Coverage Results" MODIFIED="1595312438651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第四章 数组" />
     <SUITE FILE_PATH="coverage/Programmer_Algorithm_Interview$3_5_.coverage" NAME="3.5 判断两棵二叉树是否相等 Coverage Results" MODIFIED="1594797861316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章 二叉树" />
   </component>
 </project>
